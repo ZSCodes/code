@@ -39,6 +39,8 @@ export class Main {
         this.dataStore.ctx = this.ctx;
         this.dataStore.res = map;
         this.init();
+
+        
     }
 
     init() {
