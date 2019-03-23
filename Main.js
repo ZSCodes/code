@@ -55,7 +55,7 @@ export class Main {
             .put('our', Our) //我方人物
             .put('ourAim', []) //我方棋子
             .put('enemyAim', []) //敌方棋子
-            .put('shade', Shade) //遮罩
+            // .put('shade', Shade) //遮罩
             .put('ourthrow', OurThrow) //我方投掷过程
             .put('enemythrow', EnemyThrow) //敌方投掷过程
             .put('miss', Miss) //丢失
